@@ -1,8 +1,8 @@
 
 
-This minimalist README.md is strictly based on the actions performed in your Jupyter Notebook and the specific tools you used.
 
-Customer Shopping Behavior Analysis
+
+#Customer Shopping Behavior Analysis
 An end-to-end data pipeline to analyze customer purchasing patterns using Python, PostgreSQL, and Power BI.
 
 🚀 Workflow
